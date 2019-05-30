@@ -1,2 +1,2 @@
 # Kaggle
-Houses all the kaggle projects I have done
+Houses all the kaggle projects I have done.
